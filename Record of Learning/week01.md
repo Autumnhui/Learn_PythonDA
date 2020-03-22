@@ -44,7 +44,9 @@ jupyter notebook不像命令行终端、idle可以直接运行.py文件，但是
 
 示例：
 '''
+
 %run ipython_test.py
+
 '''
 
 ## 魔术命令
