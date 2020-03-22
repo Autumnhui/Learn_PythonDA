@@ -5,4 +5,4 @@
 
 ## 📅每周进程
 
-- (Week01)[https://github.com/Autumnhui/Learn_PythonDA/blob/master/Record%20of%20Learning/week01.md]
+- [Week01](https://github.com/Autumnhui/Learn_PythonDA/blob/master/Record%20of%20Learning/week01.md)
