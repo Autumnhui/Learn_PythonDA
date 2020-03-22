@@ -43,6 +43,7 @@
 jupyter notebook不像命令行终端、idle可以直接运行.py文件，但是它可以通过使用%run命令来运行。
 
 示例：
+
 '''
 
 %run ipython_test.py
