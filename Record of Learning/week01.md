@@ -56,6 +56,7 @@ jupyter noteb中有很多类似%run的带%的命令，他可以带给jupyter很�
 ## Matplotlib
 > Matplotlib 是一个 Python 的 2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
 
+---
 
-
+详细代码见[ipynb文件](https://github.com/Autumnhui/Learn_PythonDA/blob/master/Record%20of%20Learning/week01.ipynb)
 
