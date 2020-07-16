@@ -55,3 +55,9 @@
   - china_provincedata.csv
   - countrydata.csv
 - 目标：用数据展示疫情在全球的传播影响的动态变化。
+
+## 交互示例：
+
+![p1](./pic/p1.png)
+![p2](./pic/p2.png)
+![p3](./pic/p3.png)
