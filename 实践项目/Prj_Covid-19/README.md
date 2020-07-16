@@ -58,6 +58,7 @@
 
 ## 交互示例：
 
+![gif](./pic/show.gif)
 ![p1](./pic/p1.png)
 ![p2](./pic/p2.png)
 ![p3](./pic/p3.png)
